@@ -36,12 +36,12 @@
         "graham-campbell/core": "^5.1",
         "graham-campbell/exceptions": "^8.6",
         "graham-campbell/markdown": "^6.1",
-        "guzzlehttp/guzzle": "^6.2",
+        "guzzlehttp/guzzle": "^6.2.1",
         "jenssegers/date": "^3.2",
         "mccool/laravel-auto-presenter": "^4.3",
         "pragmarx/google2fa": "^0.7.1",
         "rcrowe/twigbridge": "^0.9.2",
-        "roumen/feed": "^2.10.3"
+        "roumen/feed": "^2.10.4"
     },
     "require-dev": {
         "alt-three/testbench": "^1.4",
